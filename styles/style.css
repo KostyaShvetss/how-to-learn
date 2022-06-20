@@ -235,6 +235,8 @@
 
 .section-subtitle_theme_dark {
   color: white;
+  z-index: 3;
+  position: relative;
 }
 
 .table_theme_dark {
